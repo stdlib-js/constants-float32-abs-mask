@@ -31,7 +31,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import FLOAT32_ABS_MASK from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-float32-abs-mask@deno/mod.js';
+import FLOAT32_ABS_MASK from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-float32-abs-mask@v0.0.1-deno/mod.js';
 ```
 
 #### FLOAT32_ABS_MASK
@@ -63,7 +63,7 @@ var bool = ( FLOAT32_ABS_MASK === 0x7fffffff );
 ```javascript
 import toWord from 'https://cdn.jsdelivr.net/gh/stdlib-js/number-float32-base-to-word@deno/mod.js';
 import fromWord from 'https://cdn.jsdelivr.net/gh/stdlib-js/number-float32-base-from-word@deno/mod.js';
-import FLOAT32_ABS_MASK from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-float32-abs-mask@deno/mod.js';
+import FLOAT32_ABS_MASK from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-float32-abs-mask@v0.0.1-deno/mod.js';
 
 var x = -11.5;
 var w = toWord( x ); // 1 10000010 01110000000000000000000
