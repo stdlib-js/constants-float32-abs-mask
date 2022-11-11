@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/constants-float32-abs-mask",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Mask for excluding the sign bit of a single-precision floating-point number.",
   "license": "Apache-2.0",
   "author": {
