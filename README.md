@@ -212,8 +212,8 @@ Copyright &copy; 2016-2024. The Stdlib [Authors][stdlib-authors].
 [npm-image]: http://img.shields.io/npm/v/@stdlib/constants-float32-abs-mask.svg
 [npm-url]: https://npmjs.org/package/@stdlib/constants-float32-abs-mask
 
-[test-image]: https://github.com/stdlib-js/constants-float32-abs-mask/actions/workflows/test.yml/badge.svg?branch=main
-[test-url]: https://github.com/stdlib-js/constants-float32-abs-mask/actions/workflows/test.yml?query=branch:main
+[test-image]: https://github.com/stdlib-js/constants-float32-abs-mask/actions/workflows/test.yml/badge.svg?branch=v0.2.0
+[test-url]: https://github.com/stdlib-js/constants-float32-abs-mask/actions/workflows/test.yml?query=branch:v0.2.0
 
 [coverage-image]: https://img.shields.io/codecov/c/github/stdlib-js/constants-float32-abs-mask/main.svg
 [coverage-url]: https://codecov.io/github/stdlib-js/constants-float32-abs-mask?branch=main
