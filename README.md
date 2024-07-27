@@ -42,6 +42,11 @@ limitations under the License.
 ## Usage
 
 ```javascript
+import FLOAT32_ABS_MASK from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-float32-abs-mask@esm/index.mjs';
+```
+The previous example will load the latest bundled code from the esm branch. Alternatively, you may load a specific version by loading the file from one of the [tagged bundles](https://github.com/stdlib-js/constants-float32-abs-mask/tags). For example,
+
+```javascript
 import FLOAT32_ABS_MASK from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-float32-abs-mask@v0.2.2-esm/index.mjs';
 ```
 
@@ -79,7 +84,7 @@ var bool = ( FLOAT32_ABS_MASK === 0x7fffffff );
 
 import toWord from 'https://cdn.jsdelivr.net/gh/stdlib-js/number-float32-base-to-word@esm/index.mjs';
 import fromWord from 'https://cdn.jsdelivr.net/gh/stdlib-js/number-float32-base-from-word@esm/index.mjs';
-import FLOAT32_ABS_MASK from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-float32-abs-mask@v0.2.2-esm/index.mjs';
+import FLOAT32_ABS_MASK from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-float32-abs-mask@esm/index.mjs';
 
 var x = -11.5;
 var w = toWord( x ); // 1 10000010 01110000000000000000000
