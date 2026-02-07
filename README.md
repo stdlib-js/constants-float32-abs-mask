@@ -42,7 +42,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import FLOAT32_ABS_MASK from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-float32-abs-mask@esm/index.mjs';
+import FLOAT32_ABS_MASK from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-float32-abs-mask@v0.2.3-esm/index.mjs';
 ```
 
 #### FLOAT32_ABS_MASK
@@ -79,7 +79,7 @@ var bool = ( FLOAT32_ABS_MASK === 0x7fffffff );
 
 import toWord from 'https://cdn.jsdelivr.net/gh/stdlib-js/number-float32-base-to-word@esm/index.mjs';
 import fromWord from 'https://cdn.jsdelivr.net/gh/stdlib-js/number-float32-base-from-word@esm/index.mjs';
-import FLOAT32_ABS_MASK from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-float32-abs-mask@esm/index.mjs';
+import FLOAT32_ABS_MASK from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-float32-abs-mask@v0.2.3-esm/index.mjs';
 
 var x = -11.5;
 var w = toWord( x ); // 1 10000010 01110000000000000000000
